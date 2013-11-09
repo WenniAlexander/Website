@@ -7,13 +7,13 @@ html {
 .leftpic {
     max-width: 100%;
     margin: 0 auto;
-    left: 0;
+    margin-left: 0;
 }
 
 .rightpic{
     max-width: 100%;
     margin: 0 auto;
-    right: 0;
+    margin-right: 0;
 }
 
 
