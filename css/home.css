@@ -22,10 +22,21 @@ body {
     margin: 0 auto;
 }
 
+.baloon {
+    width: 50px;
+    position: fixed;
+    bottom: 0;
+    max-width: 20%;
+}
+
 .baloon1 {
-    height: 446px;
-    width: 275px;
-    margin-left: 30px;
+    left: 20%;
+}
+.baloon2 {
+    left: 50%;
+}
+.baloon3 {
+    left: 70%;
 }
 
 
