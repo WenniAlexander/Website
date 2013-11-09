@@ -33,6 +33,8 @@ h1.title {
     margin-bottom: 20px;
 }
 
+
+/* buttons */
 div {
     text-align: center;
     margin-left: auto;
@@ -61,6 +63,7 @@ div {
 }
 
 
+/* body */
 h2.recipe { 
     font-size: 20px;
     margin: 0 auto;
