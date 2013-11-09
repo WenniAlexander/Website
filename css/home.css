@@ -17,6 +17,7 @@ body {
     text-align: center;
 }
 
+/* inages */
 .airplane {
     max-width: 80%;
     margin: 0 auto;
@@ -43,6 +44,22 @@ body {
     bottom: 12%;
 }
 
+
+/* headings */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    font-family: 'Poller One', serif;
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+h1.title {
+    margin: 0 auto;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
 /* baloon writing */
 .image { 
    position: relative; 
@@ -60,27 +77,10 @@ h2 {
     font-family: 'Rye', serif;
 }
 .baloon2 {
-    font-size: 28px;
+    font-size: 27px;
     font-family: 'Rye', serif;
 }
 .baloon3 {
     font-size: 18px;
     font-family: 'Rye', serif;
 }
-
-
-/* headings */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 400;
-    font-family: 'Poller One', serif;
-    margin-bottom: 45px;
-    text-align: center;
-}
-
-h1.title {
-    margin: 0 auto;
-    font-size: 50px;
-    margin-top: 10px;
-    margin-bottom: 5px;
-}
-
