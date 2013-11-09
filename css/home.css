@@ -25,18 +25,20 @@ body {
 .baloon {
     width: 100px;
     position: fixed;
-    bottom: 15%;
     max-width: 20%;
 }
 
 .baloon1 {
     left: 15%;
+    bottom: 20%;
 }
 .baloon2 {
-    left: 40%;
+    left: 45%;
+    bottom: 15%;
 }
 .baloon3 {
     left: 75%;
+    bottom: 25%;
 }
 
 
