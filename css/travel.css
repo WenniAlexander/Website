@@ -17,6 +17,12 @@ body {
 }
 
 
+#wholebody {
+    width: 70%;
+    background-color: #fff;
+    height: 100%;
+}
+
 /* headings */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
@@ -28,10 +34,12 @@ h1, h2, h3, h4, h5, h6 {
 h1.title {
     margin: 0 auto;
     font-size: 50px;
-    margin-top: 10px;
+    padding-top: 10px;
     margin-bottom: 20px;
 }
 
+
+/* buttons */
 div {
     text-align: center;
     margin-left: auto;
@@ -60,8 +68,15 @@ div {
 }
 
 
+/* body */
 h2.jornal { 
     font-size: 20px;
     margin: 0 auto;
     margin-top: 20px;
+}
+
+#box {
+    margin: 0 20px;
+    height:500px;
+    border:1px solid black;
 }
