@@ -42,27 +42,27 @@ div {
 #btnhome {  
     width: 84px;
     height: 45px;   
-    background: transparent;
-    border: none;
-    color: white;   
+    background: gray;
+    border: black;
+    color: black;   
     font-size:14px;
     font-weight:700;
 }
 #btntravel {  
     width: 84px;
     height: 45px;   
-    background: transparent;
-    border: none;
-    color: white;   
+    background: gray;
+    border: black;
+    color: black;   
     font-size:14px;
     font-weight:700;
 }
 #btncontact {  
     width: 84px;
     height: 45px;   
-    background: transparent;
-    border: none;
-    color: white;   
+    background: gray;
+    border: black;
+    color: black;   
     font-size:14px;
     font-weight:700;
 }
