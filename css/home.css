@@ -28,9 +28,9 @@ body {
 }
 
 .baloon1 {
-    width: 160px;
+    width: 170px;
     left: 15%;
-    bottom: 15%;
+    bottom: 17%;
 }
 .baloon2 {
     width: 180px;
@@ -40,7 +40,7 @@ body {
 .baloon3 {
     width: 150px;
     left: 75%;
-    bottom: 15%;
+    bottom: 12%;
 }
 
 
