@@ -23,20 +23,22 @@ body {
 }
 
 .baloon {
-    width: 100px;
     position: fixed;
     max-width: 20%;
 }
 
 .baloon1 {
+    width: 120px;
     left: 15%;
     bottom: 20%;
 }
 .baloon2 {
+    width: 150px;
     left: 45%;
-    bottom: 15%;
+    bottom: 0;
 }
 .baloon3 {
+    width: 120px;
     left: 75%;
     bottom: 25%;
 }
