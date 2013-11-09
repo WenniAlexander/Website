@@ -8,10 +8,10 @@ body {
     padding: 0;
     height: 100%;
     
-    background-position: left left;
+    background-position: center left, center right
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/Image/food_left.png);
+    background-image: url(/Image/food_left.png), url(/Image/food_right.png);
     
     text-align: center;
 }
