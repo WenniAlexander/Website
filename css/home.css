@@ -18,7 +18,8 @@ body {
 }
 
 .airplane {
-    max-width: 100%;
+    height: 446px;
+    width: 275px
     margin: 0 auto;
 }
 
