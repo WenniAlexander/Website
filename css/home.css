@@ -13,8 +13,14 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(/Image/cloud.png);
+    
+    text-align: center;
 }
 
+.airplane {
+    max-width: 100%;
+    margin: 0 auto;
+}
 
 
 /* headings */
