@@ -40,4 +40,6 @@ h2.recipe {
 
 div {
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
