@@ -10,7 +10,6 @@ body {
     
     background-position: center left, center right
     background-repeat: no-repeat;
-    background-size: cover;
     background-image: url(/Image/food_left.png), url(/Image/food_right.png);
     
     text-align: center;
