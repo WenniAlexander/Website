@@ -11,6 +11,7 @@ body {
     background-position: center left, center right;
     background-repeat: no-repeat;
     background-image: url(/Image/food_left.png), url(/Image/food_right.png);
+    background-size: contain;
     
     text-align: center;
 }
