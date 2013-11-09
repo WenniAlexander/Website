@@ -28,17 +28,17 @@ body {
 }
 
 .baloon1 {
-    width: 40%;
+    width: 30%;
     left: 15%;
     bottom: 20%;
 }
 .baloon2 {
-    width: 70%;
+    width: 60%;
     left: 45%;
     bottom: 0;
 }
 .baloon3 {
-    width: 50%;
+    width: 40%;
     left: 75%;
     bottom: 25%;
 }
