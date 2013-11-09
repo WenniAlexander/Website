@@ -16,7 +16,11 @@ body {
     text-align: center;
 }
 
-
+#wholebody {
+    width: 70%;
+    background-color: #fff;
+    height: 100%;
+}
 
 /* headings */
 h1, h2, h3, h4, h5, h6 {
