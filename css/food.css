@@ -40,16 +40,22 @@ div {
 }
 
 #btnhome {  
-    font-size:14px;
-    font-weight:700;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Poller One', serif;
+    margin-bottom: 10px;
 }
 #btntravel {  
-    font-size:14px;
-    font-weight:700;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Poller One', serif;
+    margin-bottom: 10px;
 }
 #btncontact {  
-    font-size:14px;
-    font-weight:700;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Poller One', serif;
+    margin-bottom: 10px;
 }
 
 
