@@ -25,7 +25,7 @@ body {
 .baloon {
     width: 100px;
     position: fixed;
-    bottom: 0;
+    bottom: 10%;
     max-width: 20%;
 }
 
