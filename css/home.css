@@ -18,12 +18,13 @@ body {
 }
 
 .airplane {
-    height: 446px;
-    width: 275px
+    max-width:100%;
     margin: 0 auto;
 }
 
 .baloon1 {
+    height: 446px;
+    width: 275px;
     margin-left: 30px;
 }
 
