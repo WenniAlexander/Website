@@ -3,18 +3,19 @@ html {
     height: 100%;
 }
 
-
-.leftpic {
-    max-width: 100%;
-    margin: 0 auto;
-    margin-left: 0;
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    
+    background-position: left right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/Image/food_left.png, Image/food_right.png);
+    
+    text-align: center;
 }
 
-.rightpic{
-    max-width: 100%;
-    margin: 0 auto;
-    margin-right: 0;
-}
 
 
 /* headings */
