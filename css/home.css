@@ -70,17 +70,15 @@ h2 {
     position: absolute; 
     top: 17%;
     color: navy;
+    font-family: 'Rye', serif;
 }
 
 .baloon1 {
     font-size: 23px;
-    font-family: 'Rye', serif;
 }
 .baloon2 {
     font-size: 27px;
-    font-family: 'Rye', serif;
 }
 .baloon3 {
     font-size: 18px;
-    font-family: 'Rye', serif;
 }
