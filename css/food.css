@@ -10,9 +10,8 @@ body {
     
     background-position: left left;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 50px;
     background-image: url(/Image/food_left.png);
-    max-width: 50px;
     
     text-align: center;
 }
