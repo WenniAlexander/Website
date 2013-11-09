@@ -2,3 +2,32 @@
 html {
     height: 100%;
 }
+
+
+.leftpic {
+    max-width: 100%;
+    margin: 0 auto;
+    left: 0;
+}
+
+.rightpic{
+    max-width: 100%;
+    margin: 0 auto;
+    right: 0;
+}
+
+
+/* headings */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    font-family: 'Poller One', serif;
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+h1.title {
+    margin: 0 auto;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
