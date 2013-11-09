@@ -7,12 +7,12 @@ body {
     margin: 0;
     padding: 0;
     height: 100%;
-    max-width: 50px;
     
     background-position: left left;
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(/Image/food_left.png);
+    max-width: 50px;
     
     text-align: center;
 }
