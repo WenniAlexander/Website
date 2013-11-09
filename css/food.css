@@ -11,7 +11,7 @@ body {
     background-position: left left;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/Image/food_left.png, Image/food_right.png);
+    background-image: url(/Image/food_left.png; Image/food_right.png);
     
     text-align: center;
 }
