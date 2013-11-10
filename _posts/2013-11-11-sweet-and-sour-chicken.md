@@ -3,12 +3,12 @@ title: Sweet and Sour Chicken
 categories: ['food']
 ---
 
-Ingredients:<br/>
+### Ingredients:
 
 chicken;    egg white;   cucumber(dice);    sweet paper (dice);   can pineapple dice;<br/>
 ketchup;    starch;    garlic (slices);    suger;   vinegar;   salt
      
-Steps:<br/>
+### Steps:
 
 1. Dice the chicken; add suger, egg white and potato starch. Settle for 30 mins. 
 2. Pan fry the chicken until goden colour, then take it out.
