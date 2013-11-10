@@ -5,7 +5,7 @@ categories: ['food']
 
 ### Ingredients:
 
-chicken;    egg white;   cucumber(diced);    sweet pepper (diced);   can pineapple (diced);<br/>
+chicken;    egg white;   cucumber(diced);    sweet pepper (diced);   canned pineapple (diced);<br/>
 ketchup;    starch;    garlic (sliced);    suger;   vinegar;   salt
      
 ### Steps:
