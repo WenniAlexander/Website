@@ -74,7 +74,7 @@ h2.recipe {
     font-size: 20px;
     margin: 0 auto;
     margin-top: 20px;
-    font-family: '\6807\6977\4F53', serif;
+    font: '\6807\6977\4F53';
 }
 
 #box {
