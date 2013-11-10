@@ -101,5 +101,7 @@ ol {
     font-family: 'Poller One', serif;
     font-size: 12px;
     display: block;
+}
+li {
     margin-top: 16px;
 }
