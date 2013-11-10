@@ -31,4 +31,4 @@ beef; ginger; spring onion; cloves; suger; dark soya sauce; light soya sauce; sa
 2. 放入锅中，加水烧开后撇末.<br/>
 3. 下姜， 葱， 花椒， 大料（或香料）， 料酒.<br/>
 4. 待肉煮熟，加糖， 酱油， 盐， 味精.<br/>
-5. 肉烧好后，再放入新鲜土豆（土豆去皮切块.<br/>
+5. 肉烧好后，再放入新鲜土豆（土豆去皮切块）.<br/>
