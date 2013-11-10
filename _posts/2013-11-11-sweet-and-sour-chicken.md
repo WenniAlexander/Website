@@ -18,5 +18,24 @@ ketchup;    starch;    garlic (sliced);    suger;   vinegar;   salt
 6. Put the chicken back to the frying pan with the rest, fry for 2 mins.
 7. Then you can dish it up.
 
+
+## 甜酸鸡
+
+### Ingredients:
+
+鸡腿肉； 蛋白； 黄瓜粒； 红黄椒粒； 菠萝粒； 番茄酱； 生粉（淀粉）； 大蒜； 糖； 醋； 盐； 米酒； 味精
+
+
+### Steps:
+
+1. 鸡腿去骨切块， 加糖，味精， 蛋白， 生粉腌三十分钟
+2. 大火油将鸡肉炸成金黄， 起油锅
+3. 爆香大蒜， 红黄椒炒， 再加菠萝粒，黄瓜粒， 快炒
+4. 下米酒滚锅边
+5. 再下番茄酱， 糖， 醋， 盐， 味精
+6. 加少许水
+7. 将鸡肉放回锅内， 用中火快炒两分钟
+8. 以收汁上碟
+
      
 ### Then enjoy!
