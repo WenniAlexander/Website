@@ -84,9 +84,8 @@ h2.recipe {
     padding: 40px;
 }
 
-h3.recipe { 
+h3 { 
     text-align: left;
-    font-family: 'Poller One', serif;
     font-size: 15px;
 }
 
