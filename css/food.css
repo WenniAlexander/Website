@@ -73,7 +73,8 @@ div {
 h2.recipe { 
     font-size: 20px;
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 0;
+    margin-bottom: 10px;
 }
 
 #box {
