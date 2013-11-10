@@ -37,5 +37,3 @@ ketchup;    starch;    garlic (sliced);    suger;   vinegar;   salt
 7. 将鸡肉放回锅内， 用中火快炒两分钟.
 8. 以收汁上碟.
 
-     
-### Then enjoy!
