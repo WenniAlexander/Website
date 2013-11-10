@@ -3,6 +3,29 @@ html {
     height: 100%;
 }
 
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    
+    background-position: center left, center right;
+    background-repeat: no-repeat;
+    background-image: url(/Image/cableleft.png), url(/Image/cableright.png);
+    background-size: contain;
+    background-attachment: fixed;
+    
+    text-align: center;
+}
+
+#wholebody {
+    width: 70%;
+    background-color: #fff;
+    min-height: 100%;
+    padding-bottom: 30px;
+}
+
+
 /* headings */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
