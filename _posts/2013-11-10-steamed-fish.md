@@ -9,6 +9,7 @@ cod fish (2-3); salt & paper; spring onion (4-5 small ones); light soya sauce; o
 
 
 ### Steps:
+
 1. Put salt evently on the fish (both side).
 2. Put half of the spring onion slices on the steam plate.
 3. Put the fish on top of the spring onion, then put the other half on the top of the fish.
