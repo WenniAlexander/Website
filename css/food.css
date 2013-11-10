@@ -82,7 +82,7 @@ h2.recipe {
     margin-bottom: 20px;
 }
 
-.recipe ul,
-.recipe ol {
+ul,
+ol {
     text-align: left;
 }
