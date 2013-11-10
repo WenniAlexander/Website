@@ -18,4 +18,4 @@ ketchup;    starch;    garlic (slices);    suger;   vinegar;   salt
 6. Put the chicken back to the prying pan with the rest, fry for 2 mins.
 7. Then you can dish it up.
      
-Then enjoy!
+### Then enjoy!
