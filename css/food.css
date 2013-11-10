@@ -75,13 +75,16 @@ h2 {
     margin: 0 auto;
     margin-top: 0;
     margin-bottom: 30px;
+    margin-top: 40px;
 }
 
 #box {
     margin: 0 20px;
     border:1px solid black;
     margin-bottom: 20px;
-    padding: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
 }
 
 h3 { 
