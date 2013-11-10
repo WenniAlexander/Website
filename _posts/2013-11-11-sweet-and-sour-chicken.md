@@ -20,3 +20,8 @@ ketchup;    starch;    garlic (sliced);    suger;   vinegar;   salt
 
      
 ### Then enjoy!
+
+---
+title: 甜酸鸡
+categories: ['food']
+---
