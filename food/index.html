@@ -13,13 +13,11 @@ title: FOOD
             <a href="/contact"><button id="btncontact">Contact</button></a>
         </div>
       
-        <div id="box">
-          <h2 class="recipe">Sweet and Sour Chicken</h2>
-        </div>
-        
-        <div id="box">
-          <h2 class="recipe">Special Fried Rice Chicken</h2>
-        </div>
+        {% for page in site.posts %}
+          {% if page.categories contains 'food' %}
+            {% include fooditem.html %}
+          {% endif %}
+        {% endfor %}
         
     </div> 
     
