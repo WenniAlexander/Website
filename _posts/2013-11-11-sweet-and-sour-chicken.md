@@ -4,17 +4,8 @@ categories: ['food']
 ---
 
 Ingredients:
-* chicken    
-* egg white   
-* cucumber(dice)    
-* sweet paper (dice)   
-* can pineapple dice
-* ketchup    
-* starch    
-* garlic (slices)    
-* suger   
-* vinegar   
-* salt
+chicken;    egg white;   cucumber(dice);    sweet paper (dice);   can pineapple dice;<br/>
+ketchup;    starch;    garlic (slices);    suger;   vinegar;   salt
      
 Steps:
 1. Dice the chicken; add suger, egg white and potato starch. Settle for 30 mins. 
