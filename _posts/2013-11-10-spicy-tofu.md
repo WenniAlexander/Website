@@ -5,14 +5,14 @@ categories: ['food']
 
 ### Ingredients:
 
-tofu; mince; spicy sauce; chilly powder; suger; soya sauce; starch; pepper
+tofu; mince; spicy sauce; chilli powder; suger; soya sauce; starch; pepper
      
 ### Steps:
 
 1. Dice the tofu into small pieces, put in light salt water for 2 mins. Then dry it.
 2. Heat up the oil in a frying pan. While it's 40% hot, add mince. Quickly fry it and take it out.
-3. Medium fire fry the spicy sauce, then add chilly power, pepper, suger.
-4. Add soup (or water). Put the tofu in to boil for 3 mins, then add soya sauce and water starch.
+3. Medium heat fry the spicy sauce, then add chilli power, pepper, suger.
+4. Add soup (or water). Put the tofu in to boil for 3 mins, then add soya sauce and starch mixed with water.
 5. Then add mince, spring onion slices to boil 2 mins. Add more pepper and dish up.
 
 
