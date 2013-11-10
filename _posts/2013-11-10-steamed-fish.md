@@ -20,4 +20,19 @@ cod fish (2-3); salt & paper; spring onion (4-5 small ones); light soya sauce; o
 9. Place hot oil on top of the fish, then you can dish up.
 
 
-### Then enjoy!
+## 清蒸鱼
+
+### Ingredients:
+
+鳕鱼（两到三条）； 盐； 胡椒； 葱； 生抽； 油； 料酒
+     
+### Steps:
+
+1. 用盐将鱼的正反面腌制.<br/>
+2. 葱切成丝，将一半放入蒸盘底.<br/>
+3. 将鱼放入蒸盘，再将另一半葱丝放在鱼上.<br/>
+4. 将料酒，胡椒撒在鱼上.<br/>
+5. 蒸锅内水开后放鱼蒸， 大火十到十二分钟.<br/>
+6. 关火，到生抽.<br/>
+7. 将热油洒上，出锅.<br/>
+
