@@ -82,7 +82,7 @@ h2.linkedin {
     font-size: 20px;
     margin: 0 auto;
     margin-top: 20px;
-    text-align: right;
+    text-align: bottom right;
 }
 
 #box {
@@ -90,4 +90,5 @@ h2.linkedin {
     height:500px;
     border:1px solid black;
     margin-bottom: 20px;
+    padding: 40px;
 }
