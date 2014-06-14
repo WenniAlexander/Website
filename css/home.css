@@ -11,7 +11,8 @@ body {
     
     background-position: center top, center top;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
+    background-attachment: fixed;
     background-image: url(/Image/balloonsg.jpg);
     
     text-align: center;
