@@ -36,3 +36,11 @@ Then, create a directory called the category ID then make an index.html file in 
     ---
 
 Then make a folder with the category ID in the _posts directory, and create a post using the instructions above using your new category ID.
+
+### Running the site
+
+In the folder, just run:
+
+    jekyll serve
+
+Then, you will be able to view the site at [http://localhost:4000](http://localhost:4000)
