@@ -1,8 +1,8 @@
 image: http://placehold.it/500x500
-name: Wenni
-description: is a data team leader in the fintech sector
+name: This is a page for Wenni Alexander.
+description: I have been trying to collect different british coins and food recipies through out the years, hope you enjoy them as much as I do.
 links:
-  - target: http://linkedin.com
+  - target: http://uk.linkedin.com/in/wennialexander/
     name: LinkedIn
-  - target: https://github.com
+  - target: https://github.com/WenniAlexander
     name: Github
