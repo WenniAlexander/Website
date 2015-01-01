@@ -1,0 +1,8 @@
+image: http://placehold.it/500x500
+name: Wenni
+description: is a data team leader in the fintech sector
+links:
+  - target: http://linkedin.com
+    name: LinkedIn
+  - target: https://github.com
+    name: Github
