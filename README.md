@@ -7,7 +7,7 @@ Name the file (year)-(month)-(day)-(post-name-with-dashes).md, e.g. *2015-01-01-
 This is the example code, make sure you change the category to match the one you put it in:
 
     ---
-    layout: page
+    layout: post
     category: coins
     title: My Example Coin
     image: https://placekitten.com/g/200/300
@@ -32,6 +32,7 @@ Then, create a directory called the category ID then make an index.html file in 
     ---
     layout: category
     id: coins
+    title: Coins
     ---
 
 Then make a folder with the category ID in the _posts directory, and create a post using the instructions above using your new category ID.
