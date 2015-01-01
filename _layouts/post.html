@@ -2,4 +2,9 @@
 layout: page
 ---
 
-{{content}}
+<div class="post-content clearfix">
+	<img src="{{ page.image }}" class="image{% if page.image-align %} {{ page.image-align }}{% endif %}">
+	<h3 class="title">{{ page.title }}</h3>
+
+	{{ content }}
+</div>
