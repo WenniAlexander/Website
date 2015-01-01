@@ -1,31 +1,15 @@
 ---
-layout: base
-css: home
+layout: page
 ---
 
-    <h1 class="title">Wenni Alexander</h1>
-    
-    <img src="/Image/airplanesilhouette.png" class="airplane">
-        
-    <div class="baloon baloon1">
-        <a href="/food">
-        <img src="/Image/baloon.png" style="width: 100%;" border="0"> 
-        <h2 style="width:100%">Food</h2>
-        </a>
-    </div>
-        
-    <div class="baloon baloon2">    
-        <a href="/travel">
-        <img src="/Image/baloon.png" style="width: 100%;" border="0">
-        <h2 style="width:100%">Travel</h2>
-        </a>
-    </div>
-        
-    <div class="baloon baloon3">    
-        <a href="/contact">
-        <img src="/Image/baloon.png" style="width: 100%;" border="0">
-        <h2 style="width:100%">Contact</h2>
-        </a>
-    </div>
+{% include about.html %}
 
+{% for category_hash in site.data.categories %}
+	{% assign category = category_hash[1] %}
+	{% assign id = category_hash[0] %}
 
+	{% include category.html %}
+
+{% endfor %}
+
+{% include footer.html %}

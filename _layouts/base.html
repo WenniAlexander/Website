@@ -1,16 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>WENNI ALEXANDER {{ page.title }}</title>
-    
-    <link href='http://fonts.googleapis.com/css?family=Poller+One|Rye' rel='stylesheet' type='text/css'>
-    
-    <link rel="stylesheet" href="/css/{{ page.css }}.css">
-    
-    <meta charset="utf8">
-  </head>
-  
-  <body>
-    {{content}}
-  </body>
+	<head>
+		<title>Wenni{% if page.title %} - {{ page.title }}{% endif %}</title>
+		<meta charset="utf8">
+	</head>
+	<body>
+		{{content}}
+	</body>
 </html>

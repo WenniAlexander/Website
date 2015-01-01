@@ -1,0 +1,21 @@
+---
+layout: page
+---
+
+{% for category in site.categories %}
+
+	{% if category[0] == page.id %}
+
+		{% for posts in category %}
+
+			{% for post in posts %}
+
+				{{ post }}
+
+			{% endfor %}
+
+		{% endfor %}
+
+	{% endif %}
+
+{% endfor %}
