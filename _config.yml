@@ -1,5 +1,0 @@
-exclude: [README.md, CNAME]
-paginate: 10
-paginate_path: "/p/:num/"
-permalink: /:categories/:title/
-markdown: kramdown
